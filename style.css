@@ -80,7 +80,7 @@ body{
     background-color: #ffffff;
     text-decoration: none;
     color: #000000;    
-    border-radius: 12px;
+   
 }
 
 #navigation a:hover{
@@ -89,5 +89,6 @@ body{
 
 #navigation{
     height: 22px;
-    margin:0px 0px 10px 0px;
+    margin:5px 0px 10px 0px;
+    border-radius: 12px;
 }
