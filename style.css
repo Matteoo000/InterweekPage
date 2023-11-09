@@ -79,7 +79,8 @@ body{
     padding: 5px;
     background-color: #ffffff;
     text-decoration: none;
-    color: #fe001e;    
+    color: #000000;    
+    border-radius: 12px;
 }
 
 #navigation a:hover{
