@@ -74,9 +74,10 @@ body{
 
 #navigation a{
     padding: 5px;
-    background-color: #00ffea;
+    background-color: #ffffff;
     text-decoration: none;
-    color: #4b4d4c;
+    color: #564fe6;
+    border-radius: 12px;
     
 }
 
